@@ -283,6 +283,3 @@ This project demonstrates:
 
 ---
 
-## License
-
-MIT
